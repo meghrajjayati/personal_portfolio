@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ Computation Structure Game",
+      "title": "Finger Death Machine",
+      "description": "This game is a 2-player competitive showdown where both players compete against each other for the highest score by completing a series of matrix patterns shown to them with a series of LEDs arranged in a 4 by 4 matrix. Each game is 60 seconds long beyond which users can reset the game.",
+      "tags": ["FPGA Programming", "Finite State Machine"],
+      "image": {
+        "src": "../../images/compstruct.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://www.youtube.com/watch?v=K0dK1WSq2lk&feature=youtu.be"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/meghrajjayati/50.002-Computation-Structures-1D-Project"
+        },
+        {
+          "type": "external",
+          "url": "https://istd.sutd.edu.sg/term4-design-exhibition/50002/finger-death-machine-5000"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Android App Development",
+      "title": "Hungry Eh, Android App",
+      "description": "Developed an android app using android programming, real-time Firebase, Firestore and Java to allow for pre-ordering and filtering menu options in SUTD canteen based on allergens/calories etc. The motivation of the app is to prevent long queues, allows for crowd management during covid-19.",
+      "tags": ["Java Developement", "Android App Development", "Database"],
+      "image": {
+        "src": "../../images/1dapp.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/meghrajjayati/1DAndroidAppT4"
+        }, 
+        {
+          "type": "external",
+          "url": "https://istd.sutd.edu.sg/term4-design-exhibition/50001/hungryeh"
+        }
+      ]
+    },
+
+    {
+      "visible": true,
+      "category": "🧰 Web Development",
+      "title": "Hotel Booking Webapp",
+      "description": "This project is a hotel booking webapp implementing the MERN Stack. Features include fast autocomplete search for hotels around the world, presented in order of competitive pricing. Map implementation, credit card payment API and database integration and encryption. Travellers can easily track their bookings through our booking id features. We achieved three non-functional requirements- speed, accuracy, data security so travellers to book their trips with comfort through our great user eperience.",
+      "tags": ["Full Stack Development", "Software Testing", "React.js", "Node.js", "MongoDb", "Express", "Payment Gateway",  "Database Encryption", "Data Retrieval"],
+      "image": {
+        "src": "../../images/hotel-booking.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/meghrajjayati/hotel_booking_webapp"
+        }
+        
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit Other Projects",
+    "url": "https://various-aardwolf-465.notion.site/Hackathons-and-Competitions-9e6b863862454effa16dd79738ab8d6c"
+  }
+}

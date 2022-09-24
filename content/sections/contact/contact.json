@@ -1,0 +1,13 @@
+{
+  "name": "Looking forward to interacting with you",
+  "email": "jayatiparwani@gmail.com",
+  "description": "If you have any questions for me or are up for a chat do feel free to contact me anytime",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

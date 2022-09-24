@@ -1,0 +1,22 @@
+{
+  "intro": "Hi",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Jayati Parwani",
+  "subtitle": {
+    "prefix": "This is my",
+    "highlight": " portfolio website",
+    "suffix": "."
+  },
+  "description": "I am from SUTD, majoring in Computer Science. Hope you all enjoy going through my projects, my experiences in a little bit more detail. Infact, this website is one of my personal projects as well, I've built it employing the Gatsby framework. ",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

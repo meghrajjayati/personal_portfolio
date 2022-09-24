@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Looking forward to interacting with you!",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Jayati Parwani",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Hope you enjoyed reading about my experiences. Fret Not to give me any tips!",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/meghrajjayati",
+      "linkedin": "https://www.linkedin.com/in/jayati-p-6a44351b9/",
+      "mail": "mailto:jayatiparwani@gmail.com"
+        }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Portfolio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Project Work", "url": "/blog" },
+        { "label": "Highlights", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
