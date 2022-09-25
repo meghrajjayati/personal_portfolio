@@ -48,7 +48,7 @@
       "visible": true,
       "category": "🧰 Web Development",
       "title": "Hotel Booking Webapp",
-      "description": "This project is a hotel booking webapp implementing the MERN Stack. Features include fast autocomplete search for hotels around the world, presented in order of competitive pricing. Map implementation, credit card payment API and database integration and encryption. Travellers can easily track their bookings through our booking id features. We achieved three non-functional requirements- speed, accuracy, data security so travellers to book their trips with comfort through our great user eperience.",
+      "description": "This project is a hotel booking webapp implementing the MERN Stack. Features include fast autocomplete search for hotels, map implementation, credit card payment API and database integration and encryption, booking retrieval. We achieved three non-functional requirements- speed, accuracy, data security. The app was tested through selenium automated testing, fuzzing and other white-box and black box component and unit testing.",
       "tags": ["Full Stack Development", "Software Testing", "React.js", "Node.js", "MongoDb", "Express", "Payment Gateway",  "Database Encryption", "Data Retrieval"],
       "image": {
         "src": "../../images/hotel-booking.png",
@@ -66,6 +66,6 @@
   "button": {
     "visible": true,
     "label": "Visit Other Projects",
-    "url": "https://various-aardwolf-465.notion.site/Hackathons-and-Competitions-9e6b863862454effa16dd79738ab8d6c"
+    "url": "https://various-aardwolf-465.notion.site/Academic-Projects-2c8ac3a2acbf4aa2a033b9570415fc73"
   }
 }
